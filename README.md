@@ -7,7 +7,7 @@ I designed the full flight computer stack used in the University of Kentucky's u
 
 This included schematic capture and a completely new PCB layout which optmized the capsules for ease of assembly and debugging. I also created all of the wiring harnesses used in the capsule.
 
-Examples of these designs can be seen below. Note, these are still work in progress.
+Examples of these designs can be seen below.
 
 ### Flight Computer PCB
 The PCB which contains the capsule's main flight computer, sensors, power management circuitry, and signal passthroughs to the bottom of the internal housing.
@@ -19,7 +19,7 @@ The PCB which contains all of the capsule's radio equipment, and signal passthro
 
 <img src="Pictures/KREPE3_Antenna_deck.png" width="75%">
 
-### Example Harness (Work in Progress)
+### Example Harness
 
 <img src="Pictures/KREPE3 Harness Example.PNG" width="75%">
 
