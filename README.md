@@ -5,7 +5,7 @@ If you're interested in hearing more about a particular project, feel free to em
 ## KREPE-3 Flight Computer
 I designed the full flight computer stack used in the University of Kentucky's upcoming 2026 flight of the [Kentucky Re-entry Universal Payload System (KRUPS)](https://research.uky.edu/news/departments-mae-and-ece-make-history-5-capsules-successful-return-space) Hypersonic Re-entry vehicle.
 
-This included schematic capture and a completely new PCB layout which optmized the capsules for ease of assembly and debugging. I also created all of the wiring harnesses used in the capsule.
+This included schematic capture and a completely new PCB layout which was optimized for ease of assembly and debugging. I also created all of the wiring harnesses used in the capsule.
 
 Examples of these designs can be seen below.
 
